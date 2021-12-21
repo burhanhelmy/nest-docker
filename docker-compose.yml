@@ -35,4 +35,4 @@ networks:
     external: false
     # Use a custom driver
     driver: bridge
-    name: network-bridge
+    name: app-network-bridge
